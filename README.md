@@ -1,7 +1,7 @@
 # HerVision
 ( Hannah Baek, Jappun Dhillon, Lavanya Kandhari, Shadan Namazifard)
 
-### HerVision is a mobile app to help Aritzia customers across the globe hone in on their personal style and inspire each other.
+### HerVision is a mobile app to help Aritzia customers across the globe cultivate their personal style and inspire each other.
 
 https://user-images.githubusercontent.com/89245846/212501722-b401bda9-942c-4ae0-9f40-c968801bba19.mp4
 
